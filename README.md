@@ -1,0 +1,1 @@
+# jboss-eap71-openshift-1.4
